@@ -1,6 +1,4 @@
-# Guideline
-
-## 1. Simple bundling
+# Simple bundling
 
 - Checkout to `1-simple-bundling` branch
 
